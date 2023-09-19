@@ -29,7 +29,7 @@ SECRET_KEY = 'm1kfs796g9%o9#ut)k)3^x1qs6ygyrstx47gtbh%shz7(+4_q4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['codestar2021.heroku.com','*']
+ALLOWED_HOSTS = ['https://codestar2021s-3eaf6ea4c639.herokuapp.com/','*']
 
 
 # Application definition
